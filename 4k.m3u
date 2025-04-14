@@ -383,3 +383,15 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="BBCUHD5.uk" group-title="BBC", BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+
+--- 📺 Samsung
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" group-title="Samsung", Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" group-title="Samsung", Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.fr" group-title="Samsung", Clubbing TV (720p)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Samsung", Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Samsung", EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
