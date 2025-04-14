@@ -355,3 +355,19 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 https://ncdn.telewebion.com/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir" group-title="IRAN | Telewebion", Zagros
 https://ncdn.telewebion.com/zagros/live/playlist.m3u8
+
+--- 📺 IRAN | 1 TA 5
+#EXTINF:-1 tvg-id="IRIB1.ir" group-title="IRAN | 1 TA 5", IRIB1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" group-title="IRAN | 1 TA 5", IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir" group-title="IRAN | 1 TA 5", IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" group-title="IRAN | 1 TA 5", IRIB3
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" group-title="IRAN | 1 TA 5", IRIB4
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="IRAN | 1 TA 5", IRIB5
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir" group-title="IRAN | 1 TA 5", IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
