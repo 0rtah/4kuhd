@@ -394,7 +394,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Samsung", Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Samsung", EDGEsport (1080p)
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+uhf://link/ta53OpBoF70tFpGGKbMU
 
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="IPTV">
