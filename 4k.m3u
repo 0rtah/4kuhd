@@ -392,6 +392,6 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" group-title="Samsung", Clubbing TV (720p)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Samsung", Comedy Channel (1080p)
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+http://webtv.iptvsmarters.com/057784c6-5b88-4ae8-a9cb-954b25e600e3
 #EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Samsung", EDGEsport (1080p)
 blob:http://webtv.iptvsmarters.com/1e7a5d26-44a5-48cf-b538-c9d91eb75837
