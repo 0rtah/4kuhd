@@ -394,22 +394,4 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Samsung", Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Samsung", EDGEsport (1080p)
-uhf://link/ta53OpBoF70tFpGGKbMU
-
-<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="IPTV">
-	<channel id="1+1International.ch">
-		<display-name>1+1 International</display-name>
-		<icon src="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn_n-PPDctUXb8KKI9HSfuiCFhE9IThh4g2osqcI4bGV8ES_ybInVsW0ZRg3qkW9l8kOVXDrbuvCCnbL17vHp0hA.png" />
-	</channel>
-	<channel id="1+1International.ch">
-		<display-name>Eurosport 1 HD</display-name>
-		<icon src="https://ptv.ac:443/images/xwBC0oAwlupdha4lnWZWInbAqHd4cbSBGty-U3U3LRbrb08Eo3lN9gWGbtsdGIPDnFQdfFZSi6MJBOnDoXtGMw.png" />
-	</channel>
-	<channel id="10BOLDMelbourne.au">
-		<display-name>10 BOLD Melbourne</display-name>
-		<icon src="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn3__f_UJtVvPOz2YTaguvNkFB1qHgMUCKk3-bHXSBT5B0yQ4gQ9jgh2O5jtsRw2j5A.png" />
-	</channel>
-	<channel id="10Melbourne.au">
-		<display-name>10 HD</display-name>
-		<icon src="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn3__f_UJtVvPOz2YTaguvNllQ6fhDeADrUj8BAWtAGC8.png" />
+blob:http://webtv.iptvsmarters.com/1e7a5d26-44a5-48cf-b538-c9d91eb75837
